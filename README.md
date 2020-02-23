@@ -1,0 +1,2 @@
+# practice_android_todoApp
+Androidアプリの練習です。ToDoアプリをつくってみます。
